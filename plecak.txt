@@ -1,0 +1,4 @@
+4 - n
+1 5 4 5 - rozmiar
+4 2 7 3 - wartosc
+8 - b
